@@ -3,21 +3,18 @@
 
 ## 💻 Technologies & Tools
 
+  ![gRPC](https://img.shields.io/badge/gRPC-✓-blue)
+  ![REST](https://img.shields.io/badge/REST-✓-blue)  
 
-  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-  ![Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go)
+  ![PHP](https://img.shields.io/badge/PHP-white?style=flat-square&logo=php)
+  ![Golang](https://img.shields.io/badge/Golang-white?style=flat-square&logo=go)  
   
-  ![gRPC](https://img.shields.io/badge/gRPC-black?style=flat-square&logo=google)
+  ![Redis](https://img.shields.io/badge/-Redis-white?style=flat-square&logo=Redis)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)  
 
-  ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-  
+  ![Linux](https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux)
+  ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
   
 
 ## 📲 Contact me
